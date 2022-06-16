@@ -1,0 +1,95 @@
+﻿[
+{"roomtypes":[{"name":"Single"}, {"name" : "Family Rooms"}, {"name" : "Double"}]}
+,
+  {
+    "entries": [
+      {
+        "hotelName": "Apart Residence Krakow",
+        "rating": 4,
+        "city": "Krakow",
+        "thumbnail": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/79/35/7935958_v1.jpeg",
+        "guestrating": 4,
+        "ratings": {
+          "no": 9.0,
+          "text": "Excellent"
+        },
+        "mapurl": "https://www.google.com/maps/place/Belle+Epoque+Apart+Residence+Krak%C3%B3w+Aparthotel/@50.06905,19.932742,15z/data=!4m8!3m7!1s0x0:0x34a7a997d33bb245!5m2!4m1!1i2!8m2!3d50.06905!4d19.932742",
+        "filters": [
+          { "name": "Wi-Fi" },
+          { "name": "Kichen" },
+          { "name": "A/C" },
+          { "name": "Parking" },
+          { "name": "TV" },
+          { "name": "Washing Machine" }
+        ],
+        "price": 50
+      },
+      {
+        "hotelName": "Renaissance Warsaw Airport Hotel",
+        "rating": 5,
+        "city": "Warsaw",
+        "thumbnail": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/96/57/9657764_v1.jpeg",
+        "guestrating": 5,
+        "ratings": {
+          "no": 9.2,
+          "text": "Excellent"
+        },
+        "mapurl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d83998.94722687619!2d2.277019841665155!3d48.8588377391234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sgr!4v1554987763683!5m2!1sen!2sgr",
+        "filters": [
+          { "name": "Wi-Fi" },
+          { "name": "Pool" },
+          { "name": "Spa" },
+          { "name": "A/C" },
+          { "name": "Parking" },
+          { "name": "Restaurant" },
+          { "name": "Bar" },
+          { "name": "Gym" }
+        ],
+        "price": 84
+      },
+      {
+        "hotelName": "Hilton Gdańsk",
+        "rating": 5,
+        "city": "Gdansk",
+        "thumbnail": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/15/03/1503323_v3.jpeg",
+        "guestrating": 4.5,
+        "ratings": {
+          "no": 9.1,
+          "text": "Excellent"
+        },
+        "mapurl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d83998.94722687619!2d2.277019841665155!3d48.8588377391234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sgr!4v1554987763683!5m2!1sen!2sgr",
+        "filters": [
+          { "name": "Wi-Fi" },
+          { "name": "Pool" },
+          { "name": "A/C" },
+          { "name": "TV" },
+          { "name": "Parking" }
+        ],
+        "price": 92
+      },
+      {
+        "hotelName": "Hotel Monopol",
+        "rating": 5,
+        "city": "Wroclaw",
+        "thumbnail": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/12/17/121719_v5.jpeg",
+        "guestrating": 5,
+        "ratings": {
+          "no": 8.6,
+          "text": "Excellent"
+        },
+        "mapurl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d83998.94722687619!2d2.277019841665155!3d48.8588377391234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sgr!4v1554987763683!5m2!1sen!2sgr",
+        "filters": [
+          { "name": "Wi-Fi" },
+          { "name": "Pool" },
+          { "name": "Spa" },
+          { "name": "A/C" },
+          { "name": "Parking" },
+          { "name": "Restaurant" },
+          { "name": "Bar" },
+          { "name": "Pets accepted" }
+        ],
+        "price": 120
+      }
+    ]
+  }
+]
